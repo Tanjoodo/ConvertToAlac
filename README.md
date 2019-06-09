@@ -6,4 +6,4 @@ You should be able to run .NET framework 4.6.2 programs and you must have `ffmpe
 
 # Usage
 Usage is as follows: `ConvertToAlac [input path] -o <output path>`
-Input path is optional. If ommitted, the current working directory is used. Output path is not optional.
+Input path is optional. If omitted, the current working directory is used. Output path is not optional.
